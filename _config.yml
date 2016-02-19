@@ -11,27 +11,27 @@ exclude: [vendor]
 permalink: /:title/
 
 # Setup
-title: 'Swift Weekly Brief'
-tagline: 'A community-driven weekly newsletter about Swift.org'
-timezone: America/Los_Angeles
+title: 'NiOSLetter'
+tagline: 'Uma newsletter sobre Swift.org'
+timezone: America/Maceio
 
-url: https://swiftweekly.github.io
-handle: '@swiftlybrief'
+url: https://niosletter.github.io
+handle: '@hdoria'
 
 author:
-  name: 'Jesse Squires'
-  url: https://twitter.com/jesse_squires
+  name: 'Hugo Doria'
+  url: https://twitter.com/hdoria
 
 excerpt_separator: <!--excerpt-->
 
 links:
-  twitter: 'https://twitter.com/swiftlybrief'
-  github: 'https://github.com/SwiftWeekly/swiftweekly.github.io'
-  issue: 'https://github.com/SwiftWeekly/swiftweekly.github.io/issues/new'
-  pull: 'https://github.com/SwiftWeekly/swiftweekly.github.io/compare'
+  twitter: 'https://twitter.com/hdoria'
+  github: 'https://github.com/NiOSLetter/niosletter.github.io'
+  issue: 'https://github.com/NiOSLetter/niosletter.github.io/issues/new'
+  pull: 'https://github.com/NiOSLetter/niosletter.github.io/compare'
 
 authors:
   jsq:
-    name: 'Jesse Squires'
-    twitter: '@jesse_squires'
-    url: 'https://twitter.com/jesse_squires'
+    name: 'Hugo Doria'
+    twitter: '@hdoria'
+    url: 'https://twitter.com/hdoria'
